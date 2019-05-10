@@ -11,13 +11,16 @@ Atakan Kaya 115200074
 İbrahim Doğan 11512112
 
   
-# Dependencies
+# Dependencies (check requirements.txt)
 gym==0.12.1
+
 Keras==2.2.4
+
 matplotlib==3.0.3
+
 numpy==1.16.3
+
 tensorflow==1.13.1
-  
 
 # Abstract
 
